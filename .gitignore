@@ -1,4 +1,7 @@
 # Ignore datasets folders
 datasets/
-
 datasets
+
+# Ignore virtual environment
+sisisvenv/
+sisisvenv
